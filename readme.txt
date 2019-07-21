@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 creating a now branchiiiiiiiiiiiii id quick 
+=======
+creating a now branch id quick AND simple 
+>>>>>>> featurel1
 git is a verswion control system
 git is a free software
 github how to learning the software under the GPL
